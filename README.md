@@ -1,16 +1,21 @@
-# 👋 Hi, I'm Viraj Ray😎(AKA Rayner)!
+# Hi👋, I'm Viraj Ray😎! - (AKA Rayner)
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building innovative🚀 and beautiful✨ web applications and e-commerce websites🖥.
 <!-- 
 - 👯 I’m looking to collaborate on web development projects
 - 🔭 I’m currently working on web development projects.
 -->
+## 🔗 Connect with Me: <br>  
+<a href="https://www.facebook.com/virajrayner" target="blank"><img align="center" src="https://github.com/virajray/virajray/assets/36956604/fe14e5fc-9f4d-442b-b038-b29751df5552" alt="virajray" height="40" width="40" /></a>
+<a href="https://linktr.ee/virajrayner" target="blank"><img align="center" src="https://github.com/virajray/virajray/assets/36956604/277b0e06-6ceb-4302-844c-f11378bc37ed" alt="virajray" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/viraj-rathnayake" target="blank"><img align="center" src="https://github.com/virajray/virajray/assets/36956604/8616871d-7663-4562-8060-e65e9c02f3ab" alt="virajray" height="40" width="40" /></a> 
+<a href="https://linktr.ee/virajrayner" target="blank"><img align="center" src="https://github.com/virajray/virajray/assets/36956604/c8623a1e-3888-4129-949d-99684e73e9b4" alt="virajray" height="40" width="40" /></a>
 ## 🚀 About Me
 
 - 🌱 I’m constantly learning new technologies and improving my skills.
 - 💬 Ask me about web development, e-commerce/business solutions, and technology trends.
 - ⚡ Fun fact: I love to break things, before making it
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/viraj-rathnayake) | [Linktree](https://linktr.ee/virajrayner)
+<!-- 📫 How to reach me: -->
 
 ## 🛠️ My Skills
 
@@ -39,10 +44,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 📂 Featured Projects
 
 ### [YTDroid-Downloader-python](https://github.com/virajray/YTDroid-Downloader-python)
@@ -53,13 +54,8 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 
 BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+## 📈 GitHub Stats
 
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/viraj-rathnayake)
-- [Facebook](https://www.facebook.com/viraj.kavindu)
-- [Linktree](https://linktr.ee/virajrayner)
-
----
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=virajray&show_icons=true&theme=radical)
+<br>
 ⭐️ From [@virajray](https://github.com/virajray)
