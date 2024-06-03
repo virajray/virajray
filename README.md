@@ -20,7 +20,7 @@ I develop web applications and e-commerce websites🖥.
 
 <li>🌱 I’m constantly learning new technologies and improving my skills.</li>
 <li>💬 Ask me about web development, e-commerce/business solutions, and technology trends.</li>
-<li>⚡ Fun fact: I love to break things, before making it</li>
+<li>⚡ Fun fact: I usually break things a few times, before making it</li>
 <!-- 📫 How to reach me: -->
 </div>
 <div align="center">
