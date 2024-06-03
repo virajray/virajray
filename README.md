@@ -13,7 +13,13 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 
 ## 🛠️ My Skills
 
-- **Languages**: HTML, CSS, JavaScript, Python, C++
+- **Languages**:<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-eba300?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-303945.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - **Frameworks/Libraries**: React, Node.js, Django, Flask
 - **Tools**: Git, GitHub, Docker, CMake
 - **Databases**: MySQL, PostgreSQL, MongoDB
