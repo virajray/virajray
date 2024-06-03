@@ -61,12 +61,23 @@ I develop web applications and e-commerce websites🖥.
 
 
 <h2>📂 Featured Projects</h2> 
+
+<table border="1">
+  <tr>
+    <th><a href="https://github.com/virajray/YTDroid-Downloader-python">YTDroid-Downloader-python</a></th>
+    <th><a href="https://github.com/virajray/OneDrive-video-Downloader">OneDrive-video-Downloader</a></th>
+  </tr>
+  <tr>
+    <td>
+    <li>simple yet working Youtube downloader with GUI</li>
+    <li>Technologies used: [python, tkinter, pytube]</li>
+    </td>
+    <td><li>simple ffmpeg based video downloader for OneDrive downloading</li>
+    <li>Technologies used: [python, tkinter, ffmpeg]</li>
+</td>
+  </tr>
+</table>
 </div>
-
-### [YTDroid-Downloader-python](https://github.com/virajray/YTDroid-Downloader-python)
-- simple yet working Youtube downloader with GUI
-- Technologies used: [python, tkinter, pytube]
-
 <!-- ## 📜 Latest Blog Posts
 
 BLOG-POST-LIST:START -->
