@@ -1,6 +1,7 @@
 # Hi👋, I'm Viraj Ray😎! - (AKA Rayner)
 
-Welcome to my GitHub profile! I'm a passionate developer focused on building innovative🚀 and beautiful✨ web applications and e-commerce websites🖥.
+Welcome to my profile! I'm a passionate developer focused on building things that are both innovative🚀 and beautiful✨<br>
+I develop web applications and e-commerce websites🖥.
 <!-- 
 - 👯 I’m looking to collaborate on web development projects
 - 🔭 I’m currently working on web development projects.
