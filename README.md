@@ -28,10 +28,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 - simple yet working Youtube downloader with GUI
 - Technologies used: [python, tkinter, pytube]
 
-### [Another Project](https://github.com/yourusername/another-project-repo)
-- Brief description of what this project does.
-- Technologies used: [List of technologies]
-
 <!-- ## 📜 Latest Blog Posts
 
 BLOG-POST-LIST:START -->
