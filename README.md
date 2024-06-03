@@ -25,10 +25,15 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-29bf00?style=for-the-badge&logo=node.js&logoColor=white)
 - **Tools**:<br>
-![Docker](https://img.shields.io/badge/git-d65a00.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/github-cf0505.svg?style=for-the-badge&logo=github&logoColor=white)
+![vs](https://img.shields.io/badge/code-138bba.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![git](https://img.shields.io/badge/git-d65a00.svg?style=for-the-badge&logo=git&logoColor=white)
+![github](https://img.shields.io/badge/github-cf0505.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Docker](https://img.shields.io/badge/cmake-ad0acf.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![cmake](https://img.shields.io/badge/cmake-ad0acf.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![PS](https://img.shields.io/badge/PS-034fb0.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![AI](https://img.shields.io/badge/AI-bd8500.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![PR](https://img.shields.io/badge/PR-04049e.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 - **Databases**:<br>
 ![MySQL](https://img.shields.io/badge/mysql-06c2b0.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
