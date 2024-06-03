@@ -33,7 +33,11 @@ I develop web applications and e-commerce websites🖥.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-2c00c9?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-b37e00?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-303945.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)<br>
+![Shell Script](https://img.shields.io/badge/shell_script-303945.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-06c2b0.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br>
 
 <h3>Frameworks/Libraries</h3>
 
@@ -51,13 +55,6 @@ I develop web applications and e-commerce websites🖥.
 ![AI](https://img.shields.io/badge/AI-bd8500.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![PR](https://img.shields.io/badge/PR-04049e.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br>
-
-<h3>Databases</h3>
-
-![MySQL](https://img.shields.io/badge/mysql-06c2b0.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 
 <h2>📂 Featured Projects</h2> 
 
