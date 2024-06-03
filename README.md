@@ -29,7 +29,10 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 ![Docker](https://img.shields.io/badge/github-cf0505.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker](https://img.shields.io/badge/cmake-ad0acf.svg?style=for-the-badge&logo=cmake&logoColor=white)
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Databases**:<br>
+![MySQL](https://img.shields.io/badge/mysql-06c2b0.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 📈 GitHub Stats
 
