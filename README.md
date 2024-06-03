@@ -1,26 +1,31 @@
 <h1 align="center"> 🐱‍🏍Viraj Ray!<h3 align="center">(AKA Rayner⚡)</h3></h1>
 <div align="center">
-I'm an Passionate developer and Business student focused on building things that are both innovative🚀 and beautiful✨<br>
+I'm an Passionate software developer and Business student focused on building things that are both innovative🚀 and beautiful✨<br>
 I love to develop web applications and e-commerce websites🖥.
 <!-- 
 - 👯 I’m looking to collaborate on web development projects
 - 🔭 I’m currently working on web development projects.
 -->
-</div>
+</div><br>
 
 <div align="center">
-<!-- <h2> 🔗 Connect with Me:</h2> <br>  -->
-<h2>🚀 About Me</h2> 
+<!-- <h2> 🔗 Connect with Me:</h2> <br>  
+<h2>🚀 About Me</h2> -->
   
 <a href="https://www.facebook.com/virajrayner" target="blank"><img align="center" src="https://github.com/virajray/virajray/assets/36956604/fe14e5fc-9f4d-442b-b038-b29751df5552" alt="virajray" height="40" width="40" /></a>
 <a href="https://linktr.ee/virajrayner" target="blank"><img align="center" src="https://github.com/virajray/virajray/assets/36956604/277b0e06-6ceb-4302-844c-f11378bc37ed" alt="virajray" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/viraj-rathnayake" target="blank"><img align="center" src="https://github.com/virajray/virajray/assets/36956604/8616871d-7663-4562-8060-e65e9c02f3ab" alt="virajray" height="40" width="40" /></a> 
 <a href="https://linktr.ee/virajrayner" target="blank"><img align="center" src="https://github.com/virajray/virajray/assets/36956604/c8623a1e-3888-4129-949d-99684e73e9b4" alt="virajray" height="40" width="40" /></a>
-<li>🌱 I’m constantly learning new technologies and improving my skills.</li>
-<li>💬 Ask me about web development, e-commerce/business solutions,<br> and technology trends.</li>
+</div>
+
+<div align="center" style="padding-left: 20px;">
+<p>🌱 I’m constantly learning new technologies and improving my skills.<br>
+💬 Ask me about web development, e-commerce/business solutions</p>
 <!--  <li>⚡ Fun fact: I usually break things a few times, before making it</li>
 📫 How to reach me: -->
 </div>
+
+
 <div align="center">
 <h2>🛠️ My Skills</h2> 
 
