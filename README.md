@@ -24,7 +24,11 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 - **Frameworks/Libraries**:<br>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-29bf00?style=for-the-badge&logo=node.js&logoColor=white)
-- **Tools**: Git, GitHub, Docker, CMake
+- **Tools**:<br>
+![Docker](https://img.shields.io/badge/git-d65a00.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/github-cf0505.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/cmake-ad0acf.svg?style=for-the-badge&logo=cmake&logoColor=white)
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
 ## 📈 GitHub Stats
