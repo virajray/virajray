@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Viraj Ray😎(AKA Rayner)!
 
 Welcome to my GitHub profile! I'm a passionate developer focused on building innovative🚀 and beautiful✨ web applications and e-commerce websites🖥.
-
+<!-- 
+- 👯 I’m looking to collaborate on web development projects
+- 🔭 I’m currently working on web development projects.
+-->
 ## 🚀 About Me
 
-- 🔭 I’m currently working on web development projects.
 - 🌱 I’m constantly learning new technologies and improving my skills.
-- 👯 I’m looking to collaborate on web development projects
 - 💬 Ask me about web development, e-commerce/business solutions, and technology trends.
 - ⚡ Fun fact: I love to break things, before making it
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/viraj-rathnayake) | [Linktree](https://linktr.ee/virajrayner)
@@ -20,7 +21,9 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building inn
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-eba300?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-303945.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-- **Frameworks/Libraries**: React, Node.js, Django, Flask
+- **Frameworks/Libraries**:<br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-29bf00?style=for-the-badge&logo=node.js&logoColor=white)
 - **Tools**: Git, GitHub, Docker, CMake
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
