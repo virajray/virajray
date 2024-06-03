@@ -17,13 +17,12 @@ I develop web applications and e-commerce websites🖥.
 
 
 <h2>🚀 About Me</h2> 
-</div>
 
-- 🌱 I’m constantly learning new technologies and improving my skills.
-- 💬 Ask me about web development, e-commerce/business solutions, and technology trends.
-- ⚡ Fun fact: I love to break things, before making it
+<li>🌱 I’m constantly learning new technologies and improving my skills.</li>
+<li>💬 Ask me about web development, e-commerce/business solutions, and technology trends.</li>
+<li>⚡ Fun fact: I love to break things, before making it</li>
 <!-- 📫 How to reach me: -->
-
+</div>
 <div align="center">
 <h2>🛠️ My Skills</h2> 
 
