@@ -1,4 +1,4 @@
-<h1 align="center"> 🐱‍🏍Viraj Ray!<h3 align="center">(AKA Rayner⚡)</h3></h1>
+<h1 align="center"> Viraj Ray!<h3 align="center">(AKA Rayner⚡)</h3></h1>
 <div align="center">
 I'm an Passionate software developer and Business student focused on building things that are both innovative🚀 and beautiful✨<br>
 I love to develop web applications and e-commerce websites🖥.
